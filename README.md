@@ -4,6 +4,6 @@
   
   FDFAA: Convert DFA to a fallback DFA
   
-  Task 5 : eliinate left recursion from CFG
+  Task 5 : eliminate left recursion from CFG
   
   Last file: get he First and the follow of a Context-free grammer 
